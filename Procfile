@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run ML_public_deploy.py
